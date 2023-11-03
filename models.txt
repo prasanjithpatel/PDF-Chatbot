@@ -1,0 +1,4 @@
+TheBloke/Llama-2-7B-Chat-GGML
+meta-llama/Llama-2-7b-chat
+TheBloke/Nous-Hermes-13B-GPTQ
+other
